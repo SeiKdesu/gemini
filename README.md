@@ -1,6 +1,7 @@
 # gemini
 
 A new Flutter project.
+Gemini APIを用いてflutterでappを１つ作成しました。
 
 ## Getting Started
 
